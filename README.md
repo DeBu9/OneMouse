@@ -1,5 +1,7 @@
 # OneMouse
 
+**简体中文** | [English](README.en.md)
+
 macOS 菜单栏小工具，把两件事合成一个 App：
 
 - **指针加速度彻底关掉**（ExactMouse 那种硬关，不是系统设置里的那个开关）
